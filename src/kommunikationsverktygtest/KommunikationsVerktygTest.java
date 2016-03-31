@@ -18,4 +18,14 @@ public class KommunikationsVerktygTest {
         // TODO code application logic here
     }
     
+
+public void testMetod()
+{}
+
+
+
+
+
+
 }
+
