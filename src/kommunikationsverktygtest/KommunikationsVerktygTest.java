@@ -23,6 +23,10 @@ public void testMetod()
 {}
 
 
+public void testMetod2()
+{}
+
+
 
 
 
