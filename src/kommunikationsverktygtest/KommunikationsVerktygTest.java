@@ -24,7 +24,7 @@ public void testMetod()
 {}
 
 
-public void testMetod2()
+public void testMetod22()
 {}
 
 
