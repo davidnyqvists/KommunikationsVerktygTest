@@ -7,7 +7,7 @@ package kommunikationsverktygtest;
 
 /**
  *
- * @author David Nyqvist och JOnas AND
+ * @author David Nyqvist och Jonas AND Anton
  */
 public class KommunikationsVerktygTest {
 
@@ -32,6 +32,12 @@ public void testMetod2()
 public void testMetod3 ()
 {}
 
+
+
+
+    public void bestMetod1 ()
+    {
+
+    }
+
 }
-
-
