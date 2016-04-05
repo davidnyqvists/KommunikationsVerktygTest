@@ -42,4 +42,9 @@ public void testMetod3 ()
         
     }
 
+    public void bestMetod2()
+    {
+        //asdasdasdasd
+        
+    }
 }
