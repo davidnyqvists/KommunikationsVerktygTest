@@ -7,7 +7,8 @@ package kommunikationsverktygtest;
 
 /**
  *
- * @author David Nyqvist och Jonas AND Anton
+ * @author David Nyqvist och Jonas AND Anton shablashablashablashabla
+ * Bara massa skit
  */
 public class KommunikationsVerktygTest {
 
