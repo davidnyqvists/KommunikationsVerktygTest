@@ -8,6 +8,7 @@ package o;
 /**
  *
  * @author TeknikFix. Så detta borde alltså fungera / Bacon
+ * Det verkar fungera
  */
 public class O {
 
