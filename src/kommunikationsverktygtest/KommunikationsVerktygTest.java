@@ -35,7 +35,7 @@ public void testMetod3 ()
 
 
 
-    public void bestMetod1 ()
+    public void bestMetod ()
     {
 
     }
