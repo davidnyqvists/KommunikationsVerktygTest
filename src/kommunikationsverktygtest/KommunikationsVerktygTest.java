@@ -7,7 +7,7 @@ package kommunikationsverktygtest;
 
 /**
  *
- * @author David Nyqvist och JOnas ANDERSOSSN
+ * @author David Nyqvist och JOnas AND
  */
 public class KommunikationsVerktygTest {
 
