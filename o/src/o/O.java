@@ -7,7 +7,7 @@ package o;
 
 /**
  *
- * @author TeknikFix
+ * @author TeknikFix. Så detta borde alltså fungera / Bacon
  */
 public class O {
 
